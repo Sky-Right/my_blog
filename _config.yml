@@ -5,7 +5,8 @@ keywords: null
 author: John Doe
 language: en
 timezone: ''
-url: http://example.com
+url: https://sky-right.github.io/my_blog
+root: /my_blog/
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
